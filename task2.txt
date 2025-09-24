@@ -1,0 +1,24 @@
+The attached file with name "email_phising_task2" is the sample of a email phising.
+
+
+1. The company name is wrong — it says Amdox, but the real one is Amdocs.
+
+
+2. The email comes from a weird address (amdox.in) instead of the real amdocs.com.
+
+
+3. They asked me to join a WhatsApp group and click on a strange site — no real company does that.
+
+
+4. The email tries to rush me by saying “accept before the deadline.”
+
+
+5. They share WhatsApp/Telegram numbers instead of using official HR contacts.
+
+
+6. The logo and details don’t match the real company.
+
+
+7. In addition to these points, I never enrolled for any intership for organisation named zidio or amdox.
+
+
